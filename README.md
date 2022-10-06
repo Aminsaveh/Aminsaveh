@@ -1,6 +1,5 @@
 <h1 align="center"> Hello, I'm Amin Savehdoroodi 👨‍💻 </h1>
 
-<h3 align="center">  Gamer && Trying To Become A Game Developer </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/aminsaveh/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Amin_Saveh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aminsaveh/"></a>
@@ -12,9 +11,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤔 About
--  **Working :** [DreamRain - Unity Game Developer](https://drainco.ir/) 
 -  **Hobbies :** Games 🎮 | Movies 🎥 
--  💬 Ask me about: everything especially about 💻, 🎮 , 🎥
+-  💬 Ask me about: everything especially about 💻, 🎮
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
